@@ -1,29 +1,29 @@
-# Agenda de contactos
+# Contact Book App
 
-Aplicacion para gestionar contactos
+App to manage contacts
 
 ## Installation
 
-Instalar las dependencias, se debe tener instalado pip.
+Isntall dependencies
 
 ```bash
 pip install -r requeriments.txt
 ```
 
-## Ejecutar
+## Run
 
 ```bash
 python main.py
 ```
 
-## Integrantes
+## Members
 - Andres Vergel Alvarez
 - Alvaro Jose Vergara
 - Jhonys Orozco
 - Eddie Enrique Yanez
 
 
-## Tecnologias utilizadas
+## Technologies
 - Python 3.8
 - Tkinter
 - SQLite
