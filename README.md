@@ -4,7 +4,17 @@ App to manage contacts
 
 ## Installation
 
-Isntall dependencies
+Make sure you have python tkinter installed
+
+tkinter is installed Python 3.x since
+
+Linux 
+```bash
+sudo apt-get install python3-tk
+```
+
+
+Install dependencies
 
 ```bash
 pip install -r requeriments.txt
@@ -13,7 +23,7 @@ pip install -r requeriments.txt
 ## Run
 
 ```bash
-python main.py
+python main.py  or python3 main.py
 ```
 
 ## Members
